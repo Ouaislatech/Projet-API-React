@@ -1,4 +1,4 @@
-# ProutJSReact
+# FroutJSReact
 
 Projet React avec:  
 
